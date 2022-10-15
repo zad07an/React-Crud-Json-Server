@@ -1,0 +1,56 @@
+.todo_item {
+  width: 500px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background: #ccc;
+  border: 1px solid rgb(132, 132, 132);
+
+  
+
+  .todo_day {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 5px;
+
+    p {
+      font-weight: 500;
+      font-size: 18px;
+    }
+
+    span {
+      font-weight: 500;
+      font-size: 16px;
+    }
+
+    .todo_day_placeholder {
+      font-size: 14px;
+      color: rgb(80, 80, 80);
+    }
+  }
+
+  .delete_todo_item {
+    span {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 20px;
+      color: red;
+      cursor: pointer;
+    }
+  }
+}
+
+.todo_reminder {
+  width: 500px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background: #ccc;
+  border: 1px solid rgb(132, 132, 132);
+  border-left: 5px solid green;
+}

@@ -1,0 +1,38 @@
+{
+  "todos": [
+    {
+      "todo": "Learn Node",
+      "day": "Aug 31 at 08:15",
+      "reminder": false,
+      "id": 2,
+      "time": null
+    },
+    {
+      "todo": "Learn Angular",
+      "day": "Oct 13 at 17:00",
+      "reminder": true,
+      "id": 3,
+      "time": null
+    },
+    {
+      "todo": "sdad",
+      "day": "Aug 31 at 08:15",
+      "reminder": false,
+      "id": 4,
+      "time": null
+    },
+    {
+      "todo": "Learn Angular",
+      "day": "Aug 31 at 08:15",
+      "reminder": false,
+      "getTime": "30 46 16 9 2022",
+      "id": 5
+    },
+    {
+      "todo": "Learn Angular",
+      "day": "Aug 31",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}

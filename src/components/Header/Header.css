@@ -1,0 +1,11 @@
+.header {
+  width: 100%;
+  padding: 20px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header h2 {
+  font-size: 30px;
+  font-weight: 500;
+}/*# sourceMappingURL=Header.css.map */
